@@ -3,6 +3,10 @@
 ## Overview
 The Social Media App is a full-stack web application that enables users to create posts, comment on them, and engage in real-time communication. The app is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates Redux for state management. Real-time features are implemented using WebSockets. Cloudinary is used for media storage.
 
+Dummy Account 
+email:demo@g.com
+password:demo
+username:demo
 ## Features
 - User authentication (Sign up, Login, Logout)
 - Create, read, update, and delete posts
